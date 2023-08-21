@@ -1,4 +1,4 @@
-# Verify your AD Healt
+# Check Active Directory health
 
 Run command in CMD context
 ## Replication Status
